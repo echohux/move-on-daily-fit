@@ -2,7 +2,11 @@
 
 A lightweight, privacy-first fitness habit product built through vibe coding.
 
-**[Open the live product](https://move-on-daily-fit.elizabeth-jacobson42.chatgpt.site/)**
+## 在线体验 · Live Demo
+
+**[打开 MOVE ON](https://echohux.github.io/move-on-daily-fit/)**
+
+No account is required. Fitness data stays in the current browser.
 
 ## Product problem
 
